@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For SyncBH1750
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SyncBH1750	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+configureMode	KEYWORD2
+sleep	KEYWORD2
+reset	KEYWORD2
+getLightIntensity	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
+BH1750_CONT_HIGH_RES	LITERAL1
+BH1750_CONT_HIGH_RES2	LITERAL1
+BH1750_CONT_LOW_RES	LITERAL1
+BH1750_ONETIME_HIGH_RES	LITERAL1
+BH1750_ONETIME_HIGH_RES2	LITERAL1
+BH1750_ONETIME_LOW_RES	LITERAL1
+
+BH1750_MTREG_MIN	LITERAL1
+BH1750_MTREG_DEFAULT	LITERAL1
+BH1750_MTREG_MAX	LITERAL1
+
+BH1750_POWER_DOWN	LITERAL1
+BH1750_POWER_ON	LITERAL1
+BH1750_RESET	LITERAL1
